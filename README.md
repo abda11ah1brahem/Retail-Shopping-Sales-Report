@@ -61,12 +61,8 @@ The report provides valuable insights into the retail market, helping stakeholde
 you can see an interactive dashboard in my portfolio : https://mavenanalytics.io/project/23385
 
 
-# Dashboards
-![Overview](https://github.com/user-attachments/assets/5f7d8708-3bc8-4f05-a123-8f862c38f8c3)
-
-![Performance](https://github.com/user-attachments/assets/1b8d69f9-c684-49b9-aa86-13014279108c)
-
-![Summary](https://github.com/user-attachments/assets/49394fe4-e619-4dc3-864e-22418ebf0c08)
+# Dashboard
+https://github.com/user-attachments/assets/e3399944-e568-4b38-8b08-6279ec208384
 
 # Queries
 ![Query 1](https://github.com/user-attachments/assets/10a9be05-6997-4a72-8fca-e60320fa6861)
