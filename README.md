@@ -3,28 +3,28 @@
 This report aims to analyze retail sales performance from January 2021 to March 2023. It includes data on total revenue, customer count, quantities sold, and average order value. The report provides a comprehensive view of sales performance, focusing on annual and monthly trends, as well as detailed analysis by category and payment methods.
 
 # Key Objectives
-      Financial Performance Analysis: Measure revenue and changes over the years.
-      Understanding Customer Behavior: Study customer preferences based on gender and payment methods.
-      Identifying Top-Performing Categories: Analyze revenue by category to pinpoint the best-selling items.
+Financial Performance Analysis: Measure revenue and changes over the years.
+Understanding Customer Behavior: Study customer preferences based on gender and payment methods.
+Identifying Top-Performing Categories: Analyze revenue by category to pinpoint the best-selling items.
 
 # Key Performance Indicators (KPIs)
-      Total Revenue: $68.55M
-      Total Customers: 99.46K
-      Total Quantities Sold: 298.71K
-      Average Order Value: $689.26
-      Revenue by Gender:
-      Female: 59.17%
-      Male: 40.83%
-      Revenue by Payment Method:
-      Cash: 35.09%
-      Credit Card: 44.17%
-      Debit Card: 20.74%
-      Monthly Revenue Trends: Visualization of revenue changes across months.
-      Yearly Revenue Trends: Comparison of annual revenue, highlighting growth patterns.
-      Top 3 Months by Revenue: January, February, and March showed the highest sales figures.
-      Bottom 3 Months by Revenue: September, October, and November demonstrated lower sales.
-      Conclusion
-      The report provides valuable insights into the retail market, helping stakeholders make informed decisions to enhance sales strategies and improve customer engagement.
+Total Revenue: $68.55M
+Total Customers: 99.46K
+Total Quantities Sold: 298.71K
+Average Order Value: $689.26
+Revenue by Gender:
+Female: 59.17%
+Male: 40.83%
+Revenue by Payment Method:
+Cash: 35.09%
+Credit Card: 44.17%
+Debit Card: 20.74%
+Monthly Revenue Trends: Visualization of revenue changes across months.
+Yearly Revenue Trends: Comparison of annual revenue, highlighting growth patterns.
+Top 3 Months by Revenue: January, February, and March showed the highest sales figures.
+Bottom 3 Months by Revenue: September, October, and November demonstrated lower sales.
+Conclusion
+The report provides valuable insights into the retail market, helping stakeholders make informed decisions to enhance sales strategies and improve customer engagement.
 # Dashboards
 ![Overview](https://github.com/user-attachments/assets/5f7d8708-3bc8-4f05-a123-8f862c38f8c3)
 
